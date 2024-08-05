@@ -413,4 +413,4 @@ void SkipList<K, V>::clear() {
     this->_element_count = 0;
 }
 
-// vim: et tw=100 ts=4 sw=4 cc=120
+
